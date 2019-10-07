@@ -1,0 +1,2 @@
+# CalamityRuTranslate
+Русификатор для Calamity
