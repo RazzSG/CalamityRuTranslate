@@ -1,2 +1,2 @@
 # CalamityRuTranslate
-Русификатор для Calamity
+Русификатор для модов Тераррии
