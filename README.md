@@ -1,2 +1,2 @@
-# CalamityRuTranslate
+# Project tRU
 Русификатор для модов Террарии
